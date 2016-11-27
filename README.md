@@ -12,6 +12,8 @@ Make Restful API Server using Flask
 > sudo pip install MySQL-python
 
 `sudo pip install flask-mysql`
+
+
 `sudo ln -s /usr/local/mysql/lib/libmysqlclient.|22.dylib /usr/lib/`
 
 # setting nginx 
